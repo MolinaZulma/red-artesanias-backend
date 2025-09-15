@@ -1,0 +1,12 @@
+# Visual Studio Code files
+.vscode/
+
+# Binaries for the project
+bin/
+obj/
+
+# Package folders
+**/node_modules
+.vs/
+.vs/VS/
+.vs/

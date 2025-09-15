@@ -1,0 +1,6 @@
+@RedArtesanias.Api_HostAddress = http://localhost:5280
+
+GET {{RedArtesanias.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
