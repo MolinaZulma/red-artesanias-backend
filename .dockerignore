@@ -1,0 +1,9 @@
+**/.dockerignore
+**/.env
+**/bin/
+**/obj/
+**/.git/
+**/.vs/
+**/TestResults/
+**/Dockerfile
+**/RedArtesanias.Api.sln
