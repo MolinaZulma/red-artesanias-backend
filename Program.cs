@@ -3,6 +3,7 @@ using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 //EF Core con SQL Server
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseMySql(
